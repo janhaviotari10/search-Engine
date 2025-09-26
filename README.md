@@ -16,10 +16,6 @@ search-engine-streamlit/
 
 ---
 
-## 📸 Demo
-(Add a screenshot or GIF of your app here)  
-
----
 
 ## ✨ Features
 - 🔍 **Wikipedia Search** – get quick summaries  
@@ -50,7 +46,7 @@ search-engine-streamlit/
    git clone https://github.com/YourUsername/search-engine-streamlit.git
    cd search-engine-streamlit
 
-======================================================================
+---
 
 ## Install dependencies
 pip install -r requirements.txt
@@ -60,7 +56,7 @@ EMAIL_USER=your_email@gmail.com
 EMAIL_PASS=your_email_password
 OPENWEATHER_API_KEY=your_openweather_api_key
 
-=================================================================
+---
 
 Run the app
 streamlit run app.py
@@ -80,9 +76,9 @@ Weather API: Requires an OpenWeatherMap
 Email: Works with Gmail SMTP — you may need an App Password instead of your real password
 Applications: Modify the app_paths dictionary in app.py to match your system paths
 
-====================================================================================
+---
 
 👩‍💻 Author
 GitHub: janhaviotari10
 
-======================================================================================
+---
